@@ -1,0 +1,17 @@
+pip install Django==1.7
+pip install Pillow
+pip installPyPDF2
+pip install Unipath
+pip install argparse
+pip install ctx
+pip install django-braces
+pip install django-suit
+pip install html5lib
+pip install reportlab
+pip install six
+pip install wsgiref
+pip install xhtml2pdf
+pip install gunicorn
+------------------------------------
+apt-get install python-psycopg2
+pip install django-heroku
