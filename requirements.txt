@@ -16,4 +16,3 @@ pip install gunicorn
 apt-get install python-psycopg2
 pip install django-heroku
 
-python manage.py runserver --settings=farmacia.settings.local
